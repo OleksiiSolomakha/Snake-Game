@@ -1,3 +1,4 @@
 # Snake-Game
-Let's play Snake
+Let's play Snake! 
+
 Another version of this legendary game.
